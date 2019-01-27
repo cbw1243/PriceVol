@@ -1,6 +1,8 @@
 # File Description
 
-These files are to reproduce the results in the paper titled "Climate Shocks, Food Price Stability and International Trade: Evidence from 76 Maize Markets in 27 Net-importing Countries" (Environmental Research Letters, 2018). Authors: Bowen Chen and Nelson N. Villoria.
+These files are to reproduce the results in the paper titled "Climate Shocks, Food Price Stability and International Trade: Evidence from 76 Maize Markets in 27 Net-importing Countries" (Environmental Research Letters, 2019). https://doi.org/10.1088/1748-9326/aaf07f 
+
+Authors: Bowen Chen and Nelson N. Villoria.
 
 # Instruction 
 
